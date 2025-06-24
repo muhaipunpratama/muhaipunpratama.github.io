@@ -1,39 +1,63 @@
 ---
 layout: post
-title: "Biodata"
+title: "Profile"
 date: 2025-02-25
 ---
 
-# Biodata
+# Profile
 
-**Nama:** Muh. Aipun Pratama  
-**Tanggal Lahir:** 10 Oktober 2005
- 
+**Name:** Muh. Aipun Pratama  
+**Date of Birth:** October 10, 2005
+
 **Email:** aipunpratama12@gmail.com  
-**Telepon:** +62 813-4129-3388
+---
+
+## About Me
+
+I am an enthusiastic and dedicated technology learner with a deep interest in software development, data, and digital transformation. I have a strong foundation in programming, web technologies, and database management. My goal is to grow as a professional developer, contribute to impactful projects, and continuously expand my skills in the ever-evolving world of IT.
+
+---
+
+## Education
+
+- **University**  
+  Bachelor of Information Systems, 2023 – Present  
+  (Active student with a focus on software engineering, database systems, and business analysis.)
+
+- **Senior High School**  
+  Social Sciences Major, 2020 – 2023  
+  (Graduated with honors, active in extracurricular activities and technology clubs.)
+
+---
+
+## Work Experience
 
 
-## Pendidikan
+---
 
-- **Universitas**  
-    Sarjana Sistem Informasi, 2023 - Sekarang
+## Skills
 
-- **SMA**  
-    Jurusan IPS, 2020 - 2023
+- **Programming Languages:** Python, Java, JavaScript  
+- **Web Development:** HTML, CSS, React, REST API integration  
+- **Database Management:** MySQL, MongoDB  
+- **Version Control:** Git & GitHub  
+- **Other Tools:** Android Studio, Postman  
+- **Soft Skills:** Problem-solving, teamwork, adaptability, communication
 
-## Pengalaman Kerja
+---
 
-- **PT. Contoh Teknologi**  
-    *Junior Developer*, Juni 2024 - Sekarang
+## Certifications & Achievements
 
-## Keahlian
+---
 
-- Pemrograman: Python, Java, JavaScript
-- Web Development: HTML, CSS, React
-- Database: MySQL, MongoDB
+## Interests
 
-## Hobi
+- Sports (badminton, running, softball, football)
+- Exploring new programming languages and frameworks
+- Contributing to open source projects
 
-- Membaca
-- Bermain Musik
-- Olahraga
+---
+
+## Personal Motto
+
+*"Keep learning, keep growing, and never stop challenging yourself. Every line of code is a step closer to your dreams."*
