@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Biodata"
+date: 2025-02-25
+---
+
+# Biodata
+
+**Nama:** Muh. Aipun Pratama  
+**Tanggal Lahir:** 10 Oktober 2005
+ 
+**Email:** aipunpratama12@gmail.com  
+**Telepon:** +62 813-4129-3388
+
+
+## Pendidikan
+
+- **Universitas**  
+    Sarjana Sistem Informasi, 2023 - Sekarang
+
+- **SMA**  
+    Jurusan IPS, 2020 - 2023
+
+## Pengalaman Kerja
+
+- **PT. Contoh Teknologi**  
+    *Junior Developer*, Juni 2024 - Sekarang
+
+## Keahlian
+
+- Pemrograman: Python, Java, JavaScript
+- Web Development: HTML, CSS, React
+- Database: MySQL, MongoDB
+
+## Hobi
+
+- Membaca
+- Bermain Musik
+- Olahraga
