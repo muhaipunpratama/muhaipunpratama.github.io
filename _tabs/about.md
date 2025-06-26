@@ -1,34 +1,71 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+icon: fas fa-user-circle
+title: "Profile"
+date: 2025-06-26
 ---
-# About Me
 
-Hello! I'm a passionate computer science enthusiast exploring the fascinating world of technology. My journey in programming and software development has been filled with continuous learning and growth.
+# Muh. Aipun Pratama
 
-## Skills
+> **Information Systems Student**
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React
-- Database Management: MySQL, MongoDB
-- Version Control: Git, GitHub
+---
 
-## Education
+## 📍 Contact
 
-I'm currently pursuing my degree in Computer Science, focusing on expanding my knowledge in various technological domains and practical applications.
+- **Email:** aipunpratama12@gmail.com
+- **Date of Birth:** October 10, 2005
+- **GitHub:** [@muhaipunpratama](https://github.com/muhaipunpratama)
 
-## Interests
+---
 
-When I'm not coding, you can find me:
-- Exploring new technologies
-- Contributing to open-source projects
-- Reading tech blogs and articles
-- Solving algorithmic problems
+## 🎯 About
 
-## Contact
+Hello! I am an active student in the Information Systems program at Hasanuddin University and I am currently in my fourth semester. I have a strong interest in the world of technology, especially in software development and information systems. My experience working on various academic and personal projects has honed my technical and problem-solving skills, both individually and as part of a team.
 
-Feel free to reach out to me for collaborations or just to chat about technology!
+---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip } -->
+## 🎓 Education
+
+**Hasanuddin University** *(2023 - Present)*  
+Bachelor of Information Systems  
+*Focus: Software Engineering, Database Systems, Business Analysis*
+
+**Senior High School** *(2020 - 2023)*  
+Social Sciences Major - Graduated with honors
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python • Java • JavaScript  
+**Frontend:** HTML • CSS • React  
+**Backend:** REST API • Node.js  
+**Database:** MySQL • MongoDB  
+**Tools:** Vscode • Git • GitHub • Android Studio • Postman
+
+---
+
+## 🚀 Projects
+
+*Currently working on various academic and personal projects to strengthen my portfolio.*
+
+---
+
+## 🌟 Interests
+
+- **Sports:** Badminton, Running, Softball, Football
+- **Tech:** Exploring new frameworks and contributing to open source
+- **Learning:** Always curious about emerging technologies
+
+---
+
+## 💭 Philosophy
+
+*"Keep learning, keep growing, and never stop challenging yourself.  
+Every line of code is a step closer to your dreams."*
+
+---
+<div align="center">
+<sub>🚀 Let's connect and build something amazing together!</sub>
+</div>
