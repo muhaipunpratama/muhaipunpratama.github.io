@@ -181,22 +181,16 @@ Contributions are welcome! Here's how you can help:
 Whether you're a **fresh graduate** taking your first steps into the professional world or an **experienced recruiter** seeking top-tier talent, JobConnect provides the tools and interface you need to succeed in today's dynamic job market.
 
 ---
-### 🌐 Connect With Me
+### 🌐 Link Repo
+
+**Made with ❤️ by [Muhaipunpratama](https://github.com/muhaipunpratama/Final-Project-Skill-Connect)**
+
 <div align="center">
 
 <a href="https://github.com/muhaipunpratama">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-</a>
-
 </div>
-
-**Made with ❤️ by [Muhaipun Pratama](https://github.com/muhaipunpratama)**
 
 ---
 
